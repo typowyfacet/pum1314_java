@@ -173,7 +173,7 @@ public class PanelGry extends JPanel implements MouseListener, MouseMotionListen
                 } else {
                     kap = "REMIS   |   kliknij aby zresetowac";
                 }
-
+   //siemanowice slaskie
                 but = new MujButon(kap);
                 add(but);
                 but.setBounds(40, wys / 2 - wys / 4, sze - 60, wys / 3);
